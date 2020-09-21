@@ -34,11 +34,11 @@ Based on our model evaluation, the model performed better with the closing price
 
 Prediction vs Actual Graph using FNG values
 
-![lstm_stock_predictor_fng.jpg](Images/lstm_stock_predictor_fng.jpg)
+![lstm_stock_predictor_fng.JPG](Images/lstm_stock_predictor_fng.JPG)
 
 Prediction vs Actual Graph using closing prices
 
-![lstm_stock_predictor_closing.jpg](Images/lstm_stock_predictor_closing.jpg)
+![lstm_stock_predictor_closing.JPG](Images/lstm_stock_predictor_closing.JPG)
 
 Although the predicted values were slightly lower than the actual values with the closing-model, the difference between the two numbers was much less than the results received with the FNG-model. The average difference with the closing-model is showing ~1 compared to the fng-model where the average difference between predicted/actual is ~10.
 
